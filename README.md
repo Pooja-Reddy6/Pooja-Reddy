@@ -1,4 +1,4 @@
-👋 Hi, I’m @Pooja-Alumalla
+👋 Hi, I’m @Pooja-Reddy
 - 👀 I'm interested in leveraging data science and software development to solve real-world problems and drive innovation.
 - I'm currently learning advanced machine learning techniques and exploring cloud computing technologies.
 - 💼 I'm open to collaborating on projects related to software devlopment, data analysis, machine learning, web development, and more.
